@@ -1,0 +1,12 @@
+#Copyright (c) $today.year Sybsuper
+#All Rights Reserved
+#Do not use this code without permission of the developer.
+message: "&cThis command is blocked."
+enableBypassPermission: false
+blocked:
+  startWith:
+    - plugins
+  contain:
+    - version
+  equal:
+    - reload

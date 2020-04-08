@@ -1,0 +1,9 @@
+name: SybCommandBlocker
+main: me.sybsuper.SybCommandBlocker.Main
+version: 1.0.0
+author: Sybsuper
+commands:
+  sybcommandblocker:
+    permission: sybcommandblocker.reload
+    usage: /sybcommandblocker
+    description: Reload the config.yml file.
